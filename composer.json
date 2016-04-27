@@ -1,0 +1,14 @@
+{
+    "name": "dgersting/laravel-auth0",
+    "description": "Auth0 API wrapper for Laravel",
+    "require": {
+        "laravel/framework": "^5.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Gersting",
+            "email": "dgersting@gmail.com"
+        }
+    ]
+}
